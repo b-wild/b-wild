@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently finishing up a Data Analytics boatcamp where I have learned the foundamentials of VBA, Python, SQL, Machine Learning, and so much more.
 <!--
 **b-wild/b-wild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
