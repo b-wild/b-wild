@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently finishing up a Data Analytics boatcamp where I have learned the foundamentials of VBA, Python, SQL, Machine Learning, and so much more.
+- 🌱 I have recently finished a Data Analytics Professional Cerificate where I have learned the foundamentials of VBA, Python, SQL, Machine Learning, and so much more.
+- Results-driven Data Analyst with a background in Bank Secrecy Act (BSA) compliance and extensive knowledge of the financial sector. 
+- Multidisciplinary and driven professional with a passion for consolidating large data into actionable insights. 
+- Adept at working independently and collaborating with cross-disciplinary teams to extract, analyze, and derive insights from diverse data sources. 
 <!--
 **b-wild/b-wild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
